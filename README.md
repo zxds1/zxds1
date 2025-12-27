@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/hero-image.png" alt="Brian Mwirigi" width="300"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/hero.gif" alt="Brian Mwirigi" width="300"/>
 </p>
 
 <h1 align="center">Brian Mwirigi</h1>
@@ -9,34 +9,54 @@ I design, build, and integrate software systems that function reliably in imperf
 
 ---
 
-## 🚀 Core Capabilities
+## 🚀 Core Capabilities (Collapsible)
 
-### 🤖 Intelligent & Agentic Systems
+<details>
+<summary>🤖 Intelligent & Agentic Systems</summary>
+
 - **Design:** Build agent-based systems with goals, memory, and structured decision flows  
 - **Orchestration:** Coordinate AI tools, services, and data pipelines  
 - **Control:** Human-in-the-loop monitoring, evaluation, and safety protocols  
 - **Integration:** Embed AI into existing products and workflows  
 
-### ⚡ Backend, APIs & Real-Time Systems
+</details>
+
+<details>
+<summary>⚡ Backend, APIs & Real-Time Systems</summary>
+
 - **API Design:** REST, GraphQL, event-driven paradigms  
 - **Connectivity:** Work with legacy and third-party systems  
 - **Real-Time:** Hooks, WebSockets, Webhooks  
 - **Efficiency:** Inventive patterns to reduce complexity  
 
-### 🏗️ System Integration & Architecture
+</details>
+
+<details>
+<summary>🏗️ System Integration & Architecture</summary>
+
 - **Interoperability:** Connect heterogeneous systems  
 - **Middleware:** Adapters and gateways to reduce friction  
 - **Evolution:** Modular, scalable architecture  
 
-### 🧠 Machine Learning & AI Systems
+</details>
+
+<details>
+<summary>🧠 Machine Learning & AI Systems</summary>
+
 - **Functional AI:** Models as components, not experiments  
 - **Pipelines:** Inference pipelines, monitoring, feedback loops  
 - **Validation:** Critical evaluation of outputs  
 
-### 💻 Frontend & Operator Interfaces
+</details>
+
+<details>
+<summary>💻 Frontend & Operator Interfaces</summary>
+
 - **Clarity:** Interfaces that clarify system states  
 - **Prioritization:** Usability & maintainability over aesthetics  
 - **Scale:** Oversight interfaces for growing complexity  
+
+</details>
 
 ---
 
@@ -59,9 +79,56 @@ I design, build, and integrate software systems that function reliably in imperf
 
 ---
 
-## 🧠 How I Work
+## 📊 GitHub Stats & Animated Charts
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/workflow.png" alt="workflow" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 💼 Project Showcase (Animated)
+
+<p align="center">
+  <a href="https://github.com/your-username/project1">
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/project1.gif" alt="Project1" width="220"/>
+  </a>
+  <a href="https://github.com/your-username/project2">
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/project2.gif" alt="Project2" width="220"/>
+  </a>
+  <a href="https://github.com/your-username/project3">
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/project3.gif" alt="Project3" width="220"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Skills & Proficiency (Animated Bars)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-100%25-brightgreen?style=for-the-badge&animation=spin"/>
+  <img src="https://img.shields.io/badge/Go-80%25-yellow?style=for-the-badge&animation=spin"/>
+  <img src="https://img.shields.io/badge/JavaScript-90%25-yellowgreen?style=for-the-badge&animation=spin"/>
+  <img src="https://img.shields.io/badge/React-90%25-blue?style=for-the-badge&animation=spin"/>
+  <img src="https://img.shields.io/badge/Node.js-80%25-green?style=for-the-badge&animation=spin"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-70%25-orange?style=for-the-badge&animation=spin"/>
+  <img src="https://img.shields.io/badge/System%20Design-100%25-brightgreen?style=for-the-badge&animation=spin"/>
+</p>
+
+---
+
+## 🧠 How I Work (Collapsible & Illustrated)
+
+<details>
+<summary>Click to expand 📝</summary>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/workflow.gif" alt="workflow" width="600"/>
 </p>
 
 - **Defensive Design:** Systems will be misused, data incomplete, integrations break  
@@ -69,17 +136,25 @@ I design, build, and integrate software systems that function reliably in imperf
 - **Rigor + Invention:** Engineering rigor with clever solutions  
 - **Transparency:** Clear documentation of assumptions & trade-offs  
 
+</details>
+
 ---
 
-## 🎯 What I Care About
+## 🎯 What I Care About (Collapsible & Illustrated)
+
+<details>
+<summary>Click to expand 🎯</summary>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/values.png" alt="values" width="600"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/values.gif" alt="values" width="600"/>
 </p>
 
 - **Reliability:** Systems that remain useful in real-world conditions  
 - **Accountability:** Intelligent behavior under human oversight  
 - **High Leverage:** Clever solutions solving today's problems & anticipating the future  
 - **Scalability:** Interfaces between components, teams, and responsibilities that grow  
+
+</details>
 
 ---
 
@@ -88,4 +163,11 @@ I design, build, and integrate software systems that function reliably in imperf
   <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 👀 Visitors
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo" alt="Visitor Count"/>
 </p>
