@@ -1,90 +1,81 @@
-## Hi there 👋
+# Brian Mwirigi
 
-# I'M Brian Mwirigi
-
-I design, build, and integrate software systems that are expected to function reliably in imperfect and evolving environments — but I also think beyond the immediate, exploring what these systems *could become*.  
+I design, build, and integrate software systems that function reliably in imperfect and evolving environments — but I also think beyond the immediate, exploring what these systems *could become*. 
 
 I operate at the intersection of **execution, systems thinking, and forward-looking design**, blending rigorous implementation with clever, high-leverage solutions.
 
 ---
 
-## Core Capabilities
+## 🚀 Core Capabilities
 
-### Intelligent & Agentic Systems
-- Build agent-based systems with goals, memory, and structured decision flows
-- Orchestrate AI tools, services, and data pipelines
-- Implement human-in-the-loop controls, monitoring, and evaluation
-- Integrate AI into existing products and operational workflows
-- Explore clever architectures and behaviors that anticipate future needs
-- Balance autonomy with safety, observability, and accountability
+### **Intelligent & Agentic Systems**
+* **Design:** Build agent-based systems with goals, memory, and structured decision flows.
+* **Orchestration:** Coordinate AI tools, services, and data pipelines.
+* **Control:** Implement human-in-the-loop monitoring, evaluation, and safety protocols.
+* **Integration:** Embed AI into existing products and operational workflows.
 
----
+### **Backend, APIs & Real-Time Systems**
+* **API Design:** REST, GraphQL, and event-driven paradigms.
+* **Connectivity:** Work with legacy systems and third-party API integrations.
+* **Real-Time:** Build systems using hooks, webhooks, and WebSockets.
+* **Efficiency:** Employ inventive patterns to reduce complexity and increase efficiency.
 
-### Backend, APIs & Real-Time Systems
-- Design APIs using REST, GraphQL, and event-driven paradigms
-- Work with existing systems and third-party APIs
-- Build real-time systems using hooks, webhooks, and WebSockets
-- Implement authentication, authorization, and role-based access
-- Optimize for maintainability, predictability, and integration readiness
-- Employ inventive patterns to reduce complexity and increase efficiency
+### **System Integration & Architecture**
+* **Interoperability:** Connect heterogeneous systems with conflicting assumptions.
+* **Middleware:** Design adapters and gateways to reduce system friction.
+* **Evolution:** Build modular architectures that scale without collapsing.
 
----
+### **Machine Learning & AI Systems**
+* **Functional AI:** Integrate ML models as system components, not standalone experiments.
+* **Pipelines:** Build inference pipelines, monitoring systems, and feedback loops.
+* **Validation:** Measure and manage performance by treating AI outputs critically.
 
-### System Integration & Architecture
-- Connect heterogeneous systems with conflicting assumptions
-- Design adapters, gateways, and middleware to reduce friction
-- Explicitly model workflows, data flows, and failure modes
-- Build modular architectures that evolve without collapsing
-- Anticipate future requirements and design for extensibility
-
----
-
-### Machine Learning & AI Systems
-- Integrate ML models as functional system components, not standalone experiments
-- Build inference pipelines, monitoring systems, and feedback loops
-- Treat AI outputs critically: measure, validate, and manage performance
-- Introduce clever optimizations to improve efficiency, accuracy, or adaptability
-- Explore future-facing ML applications while keeping systems grounded
+### **Frontend & Operator Interfaces**
+* **Clarity:** Build interfaces that clarify complex system states and behaviors.
+* **Prioritization:** Focus on usability and maintainability over aesthetics.
+* **Scale:** Design interfaces that allow for oversight as system complexity grows.
 
 ---
 
-### Frontend & Operator Interfaces
-- Build operator/admin interfaces that clarify system state and behavior
-- Prioritize usability, predictability, and maintainability over aesthetics
-- Design interfaces that scale with complexity and allow oversight
-- Consider how present design decisions affect future expansion
+## 🧰 Tools & Technologies
+
+### **Core Stack**
+* **Languages:** Python, JavaScript/TypeScript, Go, SQL
+* **Frameworks:** React, Node.js/Backend Frameworks
+* **Architecture:** REST, GraphQL, Modular Design
+
+### **Specialized & Real-Time**
+* **Languages:** Dart
+* **Protocols:** WebSockets, Webhooks, Event-driven integrations
+* **Data Flow:** System adapters, middleware, and API gateways
+
+### **Engineering Practices**
+* **Management:** Disciplined Git workflows, environment separation
+* **Design Patterns:** Config-driven systems, explicit modeling of assumptions
+* **Reliability:** Failure mode analysis, observability, and recovery design
 
 ---
 
-## Tools & Technologies
+## 🧠 How I Work
 
-**Languages:** Python, JavaScript/TypeScript, Go, Dart, SQL,C,Java
-**Frameworks & Platforms:** Backend frameworks, React, REST, GraphQL, WebSockets, event-driven and webhook-based integrations  
-**Practices:** Modular design, config-driven systems, environment separation, explicit assumptions, disciplined Git workflows
-
----
-
-## How I Work
-
-- Assume systems will be misused, data will be incomplete, and integrations will break  
-- Design for recovery, observability, and future extensibility  
-- Combine **critical rigor** with **inventive, clever solutions**  
-- Document assumptions and trade-offs clearly  
-- Balance practical reliability with visionary thinking
+* **Defensive Design:** Assume systems will be misused, data will be incomplete, and integrations will break.
+* **Resilience:** Design specifically for recovery, observability, and future extensibility.
+* **Rigor + Invention:** Combine critical engineering rigor with inventive, clever solutions.
+* **Transparency:** Document assumptions and trade-offs clearly.
 
 ---
 
-## What I Care About
+## 🎯 What I Care About
 
-- Systems that remain useful and understandable under real conditions  
-- Intelligent behavior with visibility, control, and accountability  
-- Reducing operational and integration risk without limiting innovation  
-- Interfaces between components, teams, and responsibilities that scale  
-- Finding **high-leverage, clever solutions** that anticipate the future  
-- Building foundations that remain valuable as requirements, teams, and markets evolve
+* **Reliability:** Systems that remain useful and understandable under real-world conditions.
+* **Accountability:** Intelligent behavior that remains under human visibility and control.
+* **High Leverage:** Finding the "clever" solutions that solve today's problems while anticipating the future.
+* **Scalability:** Interfaces between components, teams, and responsibilities that can grow.
 
 ---
 
-## contact
+## 📫 Contact
 
-
+* **Email:** [Your Email]
+* **LinkedIn:** [Your Profile Link]
+* **GitHub:** [Your GitHub Link]
