@@ -1,62 +1,30 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/hero.gif" alt="Brian Mwirigi" width="300"/>
+  <img src="https://raw.githubusercontent.com/zxds1/zxds1/main/assets/profile.png" alt="Brian Mwirigi" width="150" style="border-radius:50%;"/>
 </p>
 
 <h1 align="center">Brian Mwirigi</h1>
 <p align="center">
-I design, build, and integrate software systems that work reliably in imperfect environments — and I think ahead about what they could become.
+I design, build, and integrate software systems that function reliably in imperfect and evolving environments — but I also think beyond the immediate, exploring what these systems could become. I operate at the intersection of execution, systems thinking, and forward-looking design, blending rigorous implementation with clever, high-leverage solutions.
 </p>
 
 ---
 
 ## 🚀 Core Capabilities
 
-<details>
-<summary>🤖 Intelligent & Agentic Systems</summary>
+### 🤖 Intelligent & Agentic Systems
+I build systems that think and act, not just execute commands. I design agent-based systems with clear goals, memory structures, and decision flows. These systems coordinate AI tools, services, and data pipelines, with human-in-the-loop monitoring to ensure safety, correctness, and adaptability. AI components are integrated into existing workflows to make systems dynamic and goal-driven.
 
-- Build agent-based systems with goals, memory, and structured decision flows  
-- Coordinate AI tools, services, and data pipelines  
-- Human-in-the-loop monitoring, evaluation, and safety protocols  
-- Embed AI into existing products and workflows  
+### ⚡ Backend, APIs & Real-Time Systems
+I design APIs with REST, GraphQL, and event-driven paradigms. I connect legacy platforms and third-party APIs to enable interoperability across heterogeneous environments. I build real-time systems using hooks, webhooks, and WebSockets. Efficiency is core to my approach: I employ patterns that reduce complexity, minimize bottlenecks, and make maintenance predictable.
 
-</details>
+### 🏗️ System Integration & Architecture
+I specialize in connecting systems that were never designed to work together. Through middleware, adapters, and gateways, I reduce friction and ensure smooth interoperability. My architectures are modular, evolvable, and scalable, allowing systems to grow and adapt without collapsing under complexity. Explicit modeling of assumptions is a core principle.
 
-<details>
-<summary>⚡ Backend, APIs & Real-Time Systems</summary>
+### 🧠 Machine Learning & AI Systems
+I treat ML models as integrated system components, not standalone experiments. I build inference pipelines, monitoring systems, and feedback loops to ensure reliability and performance. Evaluation is critical: outputs are measured rigorously, and recovery strategies are implemented to maintain system stability.
 
-- REST, GraphQL, and event-driven API design  
-- Work with legacy and third-party systems  
-- Hooks, WebSockets, Webhooks for real-time integrations  
-- Inventive patterns to reduce complexity and increase efficiency  
-
-</details>
-
-<details>
-<summary>🏗️ System Integration & Architecture</summary>
-
-- Connect heterogeneous systems with conflicting assumptions  
-- Design adapters and gateways to reduce friction  
-- Build modular, scalable architectures that evolve  
-
-</details>
-
-<details>
-<summary>🧠 Machine Learning & AI Systems</summary>
-
-- Integrate ML models as functional components  
-- Build inference pipelines, monitoring, and feedback loops  
-- Evaluate outputs critically, always  
-
-</details>
-
-<details>
-<summary>💻 Frontend & Operator Interfaces</summary>
-
-- Clarify complex system states through interfaces  
-- Focus on usability and maintainability  
-- Build oversight interfaces that scale with complexity  
-
-</details>
+### 💻 Frontend & Operator Interfaces
+Interfaces are the bridge between complexity and human understanding. I build dashboards and operator UIs that clarify system states and behaviors, prioritize usability and maintainability, and scale with the system. Operators can make informed decisions quickly, even as complexity grows.
 
 ---
 
@@ -75,6 +43,13 @@ I design, build, and integrate software systems that work reliably in imperfect 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-EE0A24?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 ---
@@ -92,68 +67,96 @@ I design, build, and integrate software systems that work reliably in imperfect 
 
 ---
 
-## 💼 Projects
-
-<p align="center">
-  <a href="https://github.com/your-username/project1">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/project1.gif" alt="Project1" width="220"/>
-  </a>
-  <a href="https://github.com/your-username/project2">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/project2.gif" alt="Project2" width="220"/>
-  </a>
-  <a href="https://github.com/your-username/project3">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/project3.gif" alt="Project3" width="220"/>
-  </a>
-</p>
-
----
-
-## 🛠️ Skills
+## 🛠️ Skills & Proficiency
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-100%25-brightgreen?style=for-the-badge&animation=spin"/>
   <img src="https://img.shields.io/badge/Go-80%25-yellow?style=for-the-badge&animation=spin"/>
   <img src="https://img.shields.io/badge/JavaScript-90%25-yellowgreen?style=for-the-badge&animation=spin"/>
+  <img src="https://img.shields.io/badge/TypeScript-90%25-blue?style=for-the-badge&animation=spin"/>
   <img src="https://img.shields.io/badge/React-90%25-blue?style=for-the-badge&animation=spin"/>
   <img src="https://img.shields.io/badge/Node.js-80%25-green?style=for-the-badge&animation=spin"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-70%25-orange?style=for-the-badge&animation=spin"/>
   <img src="https://img.shields.io/badge/System%20Design-100%25-brightgreen?style=for-the-badge&animation=spin"/>
 </p>
 
+I work defensively, assuming systems will fail, data will be incomplete, and integrations will break. I design for resilience, observability, and future extensibility. I combine engineering rigor with clever, high-leverage solutions. Documentation is explicit — assumptions, trade-offs, and rationale are always visible.
+
 ---
 
-## 🧠 How I Work
-
-<details>
-<summary>Click to expand 📝</summary>
+## 💼 Projects
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/workflow.gif" alt="workflow" width="600"/>
+  <a href="https://github.com/your-username/project1" target="_blank">
+    <figure>
+      <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/project1.gif" alt="Social Media Image Tracker" width="220"/>
+      <figcaption align="center">
+        <b>Social Media Image Tracker</b><br/>
+        Python, Flask, FAISS, CLIP, SQLAlchemy<br/>
+        Real-time image tracking, location estimation, alert triggers
+      </figcaption>
+    </figure>
+  </a>
+  
+  <a href="https://github.com/your-username/project2" target="_blank">
+    <figure>
+      <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/project2.gif" alt="Portfolio Backend & Admin Panel" width="220"/>
+      <figcaption align="center">
+        <b>Portfolio Backend & Admin Panel</b><br/>
+        Flask, SQLAlchemy, React, TailwindCSS<br/>
+        Admin dashboard, dynamic forms, PUT/DELETE functionality
+      </figcaption>
+    </figure>
+  </a>
+
+  <a href="https://github.com/your-username/project3" target="_blank">
+    <figure>
+      <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/project3.gif" alt="Agentic AI Orchestration System" width="220"/>
+      <figcaption align="center">
+        <b>Agentic AI Orchestration System</b><br/>
+        Python, Node.js, WebSockets, GraphQL<br/>
+        Modular agent design, real-time orchestration
+      </figcaption>
+    </figure>
+  </a>
 </p>
 
-I assume systems will break, data will be incomplete, and integrations will fail.  
-I design for resilience, observability, and future extensibility.  
-I combine engineering rigor with clever solutions and document assumptions clearly.  
+<p align="center">
+  <a href="https://github.com/your-username/project4" target="_blank">
+    <figure>
+      <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/project4.gif" alt="Content Automation Workflow" width="220"/>
+      <figcaption align="center">
+        <b>Content Automation Workflow</b><br/>
+        Python, Headless Scheduler, Selenium, OpenAI API<br/>
+        Semi-automated content creation, AI integration, smart scheduling
+      </figcaption>
+    </figure>
+  </a>
 
-</details>
+  <a href="https://github.com/your-username/project5" target="_blank">
+    <figure>
+      <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/project5.gif" alt="Regulatory Deflection & Command Engine" width="220"/>
+      <figcaption align="center">
+        <b>Regulatory Deflection & Command Engine</b><br/>
+        Python, Flask, Docker, Secure Logging<br/>
+        Operational control, risk mitigation, audit trails
+      </figcaption>
+    </figure>
+  </a>
+</p>
 
 ---
 
 ## 🎯 What I Care About
 
-<details>
-<summary>Click to expand 🎯</summary>
+- **Reliability:** Systems that remain useful and understandable in real-world conditions  
+- **Accountability:** Intelligent behavior that is always visible and controllable by humans  
+- **High Leverage:** Solutions that solve today’s problems while anticipating future challenges  
+- **Scalability:** Interfaces, teams, and responsibilities that grow gracefully with the system  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/values.gif" alt="values" width="600"/>
 </p>
-
-I build systems that remain reliable under real conditions.  
-I value accountability — intelligent behavior under human oversight.  
-I focus on high-leverage solutions that solve today’s problems while anticipating tomorrow.  
-I care about scalability: components, teams, and responsibilities that can grow.  
-
-</details>
 
 ---
 
