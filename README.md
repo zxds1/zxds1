@@ -1,30 +1,65 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zxds1/zxds1/main/assets/profile.png" alt="Brian Mwirigi" width="150" style="border-radius:50%;"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/profile.png" alt="Brian Mwirigi" width="150" style="border-radius:50%; box-shadow:0 0 15px rgba(0,0,0,0.3)"/>
 </p>
 
 <h1 align="center">Brian Mwirigi</h1>
 <p align="center">
-I design, build, and integrate software systems that function reliably in imperfect and evolving environments — but I also think beyond the immediate, exploring what these systems could become. I operate at the intersection of execution, systems thinking, and forward-looking design, blending rigorous implementation with clever, high-leverage solutions.
+  <i>Execution, Systems Thinking, and Future-Focused Design</i><br/>
+  I build reliable software systems, integrate complex workflows, and imagine what they could evolve into.
 </p>
 
 ---
 
 ## 🚀 Core Capabilities
 
-### 🤖 Intelligent & Agentic Systems
-I build systems that think and act, not just execute commands. I design agent-based systems with clear goals, memory structures, and decision flows. These systems coordinate AI tools, services, and data pipelines, with human-in-the-loop monitoring to ensure safety, correctness, and adaptability. AI components are integrated into existing workflows to make systems dynamic and goal-driven.
+<div style="display:flex; flex-wrap: wrap; gap: 20px; justify-content:center;">
 
-### ⚡ Backend, APIs & Real-Time Systems
-I design APIs with REST, GraphQL, and event-driven paradigms. I connect legacy platforms and third-party APIs to enable interoperability across heterogeneous environments. I build real-time systems using hooks, webhooks, and WebSockets. Efficiency is core to my approach: I employ patterns that reduce complexity, minimize bottlenecks, and make maintenance predictable.
+<div style="flex:1; min-width:250px; max-width:300px; background: linear-gradient(145deg, #6a11cb, #2575fc); color:white; padding:20px; border-radius:15px; box-shadow:0 5px 20px rgba(0,0,0,0.2);">
+  <h3>🤖 Agentic Systems</h3>
+  <ul>
+    <li>Autonomous agents with goals & memory</li>
+    <li>Orchestration of AI tools & pipelines</li>
+    <li>Human-in-the-loop monitoring & safety</li>
+  </ul>
+</div>
 
-### 🏗️ System Integration & Architecture
-I specialize in connecting systems that were never designed to work together. Through middleware, adapters, and gateways, I reduce friction and ensure smooth interoperability. My architectures are modular, evolvable, and scalable, allowing systems to grow and adapt without collapsing under complexity. Explicit modeling of assumptions is a core principle.
+<div style="flex:1; min-width:250px; max-width:300px; background: linear-gradient(145deg, #ff416c, #ff4b2b); color:white; padding:20px; border-radius:15px; box-shadow:0 5px 20px rgba(0,0,0,0.2);">
+  <h3>⚡ Backend & Real-Time</h3>
+  <ul>
+    <li>REST, GraphQL, Event-Driven APIs</li>
+    <li>Webhooks, Hooks & WebSockets</li>
+    <li>Efficiency-focused architecture</li>
+  </ul>
+</div>
 
-### 🧠 Machine Learning & AI Systems
-I treat ML models as integrated system components, not standalone experiments. I build inference pipelines, monitoring systems, and feedback loops to ensure reliability and performance. Evaluation is critical: outputs are measured rigorously, and recovery strategies are implemented to maintain system stability.
+<div style="flex:1; min-width:250px; max-width:300px; background: linear-gradient(145deg, #56ab2f, #a8e063); color:white; padding:20px; border-radius:15px; box-shadow:0 5px 20px rgba(0,0,0,0.2);">
+  <h3>🏗️ System Architecture</h3>
+  <ul>
+    <li>Middleware, adapters & gateways</li>
+    <li>Modular, scalable architectures</li>
+    <li>Explicit modeling of assumptions</li>
+  </ul>
+</div>
 
-### 💻 Frontend & Operator Interfaces
-Interfaces are the bridge between complexity and human understanding. I build dashboards and operator UIs that clarify system states and behaviors, prioritize usability and maintainability, and scale with the system. Operators can make informed decisions quickly, even as complexity grows.
+<div style="flex:1; min-width:250px; max-width:300px; background: linear-gradient(145deg, #ff9966, #ff5e62); color:white; padding:20px; border-radius:15px; box-shadow:0 5px 20px rgba(0,0,0,0.2);">
+  <h3>🧠 AI & ML Systems</h3>
+  <ul>
+    <li>ML as integrated system components</li>
+    <li>Inference pipelines & monitoring</li>
+    <li>Performance validation & recovery</li>
+  </ul>
+</div>
+
+<div style="flex:1; min-width:250px; max-width:300px; background: linear-gradient(145deg, #00c6ff, #0072ff); color:white; padding:20px; border-radius:15px; box-shadow:0 5px 20px rgba(0,0,0,0.2);">
+  <h3>💻 Frontend & UIs</h3>
+  <ul>
+    <li>Dashboards clarifying complex systems</li>
+    <li>Scalable operator interfaces</li>
+    <li>Focus on usability & maintainability</li>
+  </ul>
+</div>
+
+</div>
 
 ---
 
@@ -54,118 +89,43 @@ Interfaces are the bridge between complexity and human understanding. I build da
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-## 🛠️ Skills & Proficiency
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-100%25-brightgreen?style=for-the-badge&animation=spin"/>
-  <img src="https://img.shields.io/badge/Go-80%25-yellow?style=for-the-badge&animation=spin"/>
-  <img src="https://img.shields.io/badge/JavaScript-90%25-yellowgreen?style=for-the-badge&animation=spin"/>
-  <img src="https://img.shields.io/badge/TypeScript-90%25-blue?style=for-the-badge&animation=spin"/>
-  <img src="https://img.shields.io/badge/React-90%25-blue?style=for-the-badge&animation=spin"/>
-  <img src="https://img.shields.io/badge/Node.js-80%25-green?style=for-the-badge&animation=spin"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-70%25-orange?style=for-the-badge&animation=spin"/>
-  <img src="https://img.shields.io/badge/System%20Design-100%25-brightgreen?style=for-the-badge&animation=spin"/>
-</p>
-
-I work defensively, assuming systems will fail, data will be incomplete, and integrations will break. I design for resilience, observability, and future extensibility. I combine engineering rigor with clever, high-leverage solutions. Documentation is explicit — assumptions, trade-offs, and rationale are always visible.
-
----
-
 ## 💼 Projects
 
-<p align="center">
-  <a href="https://github.com/your-username/project1" target="_blank">
-    <figure>
-      <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/project1.gif" alt="Social Media Image Tracker" width="220"/>
-      <figcaption align="center">
-        <b>Social Media Image Tracker</b><br/>
-        Python, Flask, FAISS, CLIP, SQLAlchemy<br/>
-        Real-time image tracking, location estimation, alert triggers
-      </figcaption>
-    </figure>
-  </a>
-  
-  <a href="https://github.com/your-username/project2" target="_blank">
-    <figure>
-      <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/project2.gif" alt="Portfolio Backend & Admin Panel" width="220"/>
-      <figcaption align="center">
-        <b>Portfolio Backend & Admin Panel</b><br/>
-        Flask, SQLAlchemy, React, TailwindCSS<br/>
-        Admin dashboard, dynamic forms, PUT/DELETE functionality
-      </figcaption>
-    </figure>
-  </a>
+<div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <a href="https://github.com/your-username/project3" target="_blank">
-    <figure>
-      <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/project3.gif" alt="Agentic AI Orchestration System" width="220"/>
-      <figcaption align="center">
-        <b>Agentic AI Orchestration System</b><br/>
-        Python, Node.js, WebSockets, GraphQL<br/>
-        Modular agent design, real-time orchestration
-      </figcaption>
-    </figure>
-  </a>
-</p>
+<!-- Project Card Example -->
+<a href="https://github.com/your-username/project1" target="_blank" style="text-decoration: none;">
+  <div style="position: relative; width: 250px; border-radius: 15px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.2); transition: transform 0.3s;">
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/project1.gif" width="100%" alt="Social Media Image Tracker"/>
+    <div style="position:absolute; bottom:0; width:100%; background:linear-gradient(transparent, rgba(0,0,0,0.9)); color:white; padding:15px; opacity:0; transition: opacity 0.3s;">
+      <b>Social Media Image Tracker</b><br/>
+      Python, Flask, FAISS, CLIP<br/>
+      Real-time tracking, location estimation
+    </div>
+  </div>
+</a>
 
-<p align="center">
-  <a href="https://github.com/your-username/project4" target="_blank">
-    <figure>
-      <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/project4.gif" alt="Content Automation Workflow" width="220"/>
-      <figcaption align="center">
-        <b>Content Automation Workflow</b><br/>
-        Python, Headless Scheduler, Selenium, OpenAI API<br/>
-        Semi-automated content creation, AI integration, smart scheduling
-      </figcaption>
-    </figure>
-  </a>
+<!-- Duplicate similar divs for Project2, Project3, etc. -->
 
-  <a href="https://github.com/your-username/project5" target="_blank">
-    <figure>
-      <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/project5.gif" alt="Regulatory Deflection & Command Engine" width="220"/>
-      <figcaption align="center">
-        <b>Regulatory Deflection & Command Engine</b><br/>
-        Python, Flask, Docker, Secure Logging<br/>
-        Operational control, risk mitigation, audit trails
-      </figcaption>
-    </figure>
-  </a>
-</p>
+</div>
 
 ---
 
-## 🎯 What I Care About
+## 🎯 Values & Workflow
 
-- **Reliability:** Systems that remain useful and understandable in real-world conditions  
-- **Accountability:** Intelligent behavior that is always visible and controllable by humans  
-- **High Leverage:** Solutions that solve today’s problems while anticipating future challenges  
-- **Scalability:** Interfaces, teams, and responsibilities that grow gracefully with the system  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/values.gif" alt="values" width="600"/>
-</p>
+- ⚡ **High-Leverage Solutions:** Solve today’s problems while anticipating tomorrow.  
+- 🛡 **Reliability & Resilience:** Systems that stay useful under stress.  
+- 👁 **Transparency & Accountability:** Human-in-the-loop monitoring & clear documentation.  
+- 📈 **Scalability:** Interfaces, teams, and responsibilities grow gracefully.  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
