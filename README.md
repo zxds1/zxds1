@@ -4,57 +4,57 @@
 
 <h1 align="center">Brian Mwirigi</h1>
 <p align="center">
-I design, build, and integrate software systems that function reliably in imperfect and evolving environments — and think ahead about what they could become.
+I design, build, and integrate software systems that work reliably in imperfect environments — and I think ahead about what they could become.
 </p>
 
 ---
 
-## 🚀 Core Capabilities (Collapsible)
+## 🚀 Core Capabilities
 
 <details>
 <summary>🤖 Intelligent & Agentic Systems</summary>
 
-- **Design:** Build agent-based systems with goals, memory, and structured decision flows  
-- **Orchestration:** Coordinate AI tools, services, and data pipelines  
-- **Control:** Human-in-the-loop monitoring, evaluation, and safety protocols  
-- **Integration:** Embed AI into existing products and workflows  
+- Build agent-based systems with goals, memory, and structured decision flows  
+- Coordinate AI tools, services, and data pipelines  
+- Human-in-the-loop monitoring, evaluation, and safety protocols  
+- Embed AI into existing products and workflows  
 
 </details>
 
 <details>
 <summary>⚡ Backend, APIs & Real-Time Systems</summary>
 
-- **API Design:** REST, GraphQL, event-driven paradigms  
-- **Connectivity:** Work with legacy and third-party systems  
-- **Real-Time:** Hooks, WebSockets, Webhooks  
-- **Efficiency:** Inventive patterns to reduce complexity  
+- REST, GraphQL, and event-driven API design  
+- Work with legacy and third-party systems  
+- Hooks, WebSockets, Webhooks for real-time integrations  
+- Inventive patterns to reduce complexity and increase efficiency  
 
 </details>
 
 <details>
 <summary>🏗️ System Integration & Architecture</summary>
 
-- **Interoperability:** Connect heterogeneous systems  
-- **Middleware:** Adapters and gateways to reduce friction  
-- **Evolution:** Modular, scalable architecture  
+- Connect heterogeneous systems with conflicting assumptions  
+- Design adapters and gateways to reduce friction  
+- Build modular, scalable architectures that evolve  
 
 </details>
 
 <details>
 <summary>🧠 Machine Learning & AI Systems</summary>
 
-- **Functional AI:** Models as components, not experiments  
-- **Pipelines:** Inference pipelines, monitoring, feedback loops  
-- **Validation:** Critical evaluation of outputs  
+- Integrate ML models as functional components  
+- Build inference pipelines, monitoring, and feedback loops  
+- Evaluate outputs critically, always  
 
 </details>
 
 <details>
 <summary>💻 Frontend & Operator Interfaces</summary>
 
-- **Clarity:** Interfaces that clarify system states  
-- **Prioritization:** Usability & maintainability over aesthetics  
-- **Scale:** Oversight interfaces for growing complexity  
+- Clarify complex system states through interfaces  
+- Focus on usability and maintainability  
+- Build oversight interfaces that scale with complexity  
 
 </details>
 
@@ -79,10 +79,10 @@ I design, build, and integrate software systems that function reliably in imperf
 
 ---
 
-## 📊 GitHub Stats & Animated Charts
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"/>
 </p>
 
@@ -92,7 +92,7 @@ I design, build, and integrate software systems that function reliably in imperf
 
 ---
 
-## 💼 Project Showcase (Animated)
+## 💼 Projects
 
 <p align="center">
   <a href="https://github.com/your-username/project1">
@@ -108,7 +108,7 @@ I design, build, and integrate software systems that function reliably in imperf
 
 ---
 
-## 🛠️ Skills & Proficiency (Animated Bars)
+## 🛠️ Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-100%25-brightgreen?style=for-the-badge&animation=spin"/>
@@ -122,7 +122,7 @@ I design, build, and integrate software systems that function reliably in imperf
 
 ---
 
-## 🧠 How I Work (Collapsible & Illustrated)
+## 🧠 How I Work
 
 <details>
 <summary>Click to expand 📝</summary>
@@ -131,16 +131,15 @@ I design, build, and integrate software systems that function reliably in imperf
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/workflow.gif" alt="workflow" width="600"/>
 </p>
 
-- **Defensive Design:** Systems will be misused, data incomplete, integrations break  
-- **Resilience:** Recovery, observability, future extensibility  
-- **Rigor + Invention:** Engineering rigor with clever solutions  
-- **Transparency:** Clear documentation of assumptions & trade-offs  
+I assume systems will break, data will be incomplete, and integrations will fail.  
+I design for resilience, observability, and future extensibility.  
+I combine engineering rigor with clever solutions and document assumptions clearly.  
 
 </details>
 
 ---
 
-## 🎯 What I Care About (Collapsible & Illustrated)
+## 🎯 What I Care About
 
 <details>
 <summary>Click to expand 🎯</summary>
@@ -149,16 +148,17 @@ I design, build, and integrate software systems that function reliably in imperf
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/values.gif" alt="values" width="600"/>
 </p>
 
-- **Reliability:** Systems that remain useful in real-world conditions  
-- **Accountability:** Intelligent behavior under human oversight  
-- **High Leverage:** Clever solutions solving today's problems & anticipating the future  
-- **Scalability:** Interfaces between components, teams, and responsibilities that grow  
+I build systems that remain reliable under real conditions.  
+I value accountability — intelligent behavior under human oversight.  
+I focus on high-leverage solutions that solve today’s problems while anticipating tomorrow.  
+I care about scalability: components, teams, and responsibilities that can grow.  
 
 </details>
 
 ---
 
 ## 📫 Connect With Me
+
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -168,6 +168,7 @@ I design, build, and integrate software systems that function reliably in imperf
 ---
 
 ## 👀 Visitors
+
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo" alt="Visitor Count"/>
 </p>
