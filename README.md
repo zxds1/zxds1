@@ -1,4 +1,4 @@
-# Brian Mwirigi
+# HI there I'M Brian Mwirigi
 
 I design, build, and integrate software systems that function reliably in imperfect and evolving environments — but I also think beyond the immediate, exploring what these systems *could become*. 
 
