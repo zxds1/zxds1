@@ -5,8 +5,8 @@
 <h1 align="center">Brian Mwirigi</h1>
 
 <p align="center">
-  <strong>Architecting reliable agentic systems and real-time intelligence pipelines</strong><br/>
-  I build production-grade software where autonomous agents, resilient backends, and human-steerable AI converge.
+  <strong>Designing distributed, AI-native systems under real-world constraints.</strong><br/>
+  Technical founder architecting fault-tolerant platforms, autonomous systems, and cloud-native infrastructure.
 </p>
 
 <p align="center">
@@ -21,75 +21,167 @@
   </a>
 </p>
 
-<!-- Optional subtle hero banner – download one of the abstract tech images and host it -->
-<!-- <p align="center"><img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/hero-dark-tech.jpg" alt="Abstract tech visualization" width="100%" style="border-radius:12px; opacity:0.85;"/></p> -->
+---
+
+## Systems Thesis
+
+Modern software is a distributed system by default.
+
+I design architectures that explicitly account for:
+
+- Network partitions  
+- Partial failure  
+- Unbounded concurrency  
+- Eventual consistency  
+- Probabilistic AI subsystems  
+
+The objective: **predictable behavior under unpredictable conditions.**
 
 ---
 
-### What I Focus On
+## Distributed Systems Engineering
 
-I engineer systems that remain dependable as complexity and autonomy increase.
+### Consistency & CAP Tradeoffs
 
-- **Agentic & Autonomous Workflows**  
-  Goal-driven agents with memory, reflection, tool orchestration, and built-in safety & observability layers.
+Every system chooses its failure mode.
 
-- **Real-time & Event-driven Infrastructure**  
-  High-throughput REST/GraphQL APIs, WebSockets, webhooks, and reactive pipelines engineered for low-latency and fault tolerance.
+I make tradeoffs explicit:
 
-- **Production AI Integration**  
-  ML components embedded in larger systems — inference serving, monitoring for drift & performance, graceful degradation, and recovery patterns.
+- Strong consistency where financial or transactional correctness is non-negotiable  
+- Eventual consistency for high-throughput, user-facing workflows  
+- Read replicas for horizontal scaling  
+- Leader-based write coordination when ordering matters  
+- Idempotent operations to survive retries  
 
-- **Composable & Evolvable Architecture**  
-  Clean middleware, explicit interfaces, adapters, and modular designs that scale with usage, team size, and changing requirements.
-
-- **Operator-Centric Interfaces**  
-  Dashboards and control surfaces that expose system state clearly, enabling effective human oversight of complex, agent-powered behavior.
-
-Core philosophy: **Deliver immediate value. Design for sustained leverage. Prioritize resilience and transparency.**
+I design around the reality that partitions are inevitable — availability decisions are intentional, not accidental.
 
 ---
 
-### Core Technologies
+### Consensus & Coordination
+
+Where coordination is required:
+
+- Leader election strategies  
+- Quorum-based decision models  
+- Distributed locks with bounded TTL  
+- Deterministic state transitions  
+
+Where coordination is not required — I eliminate it.
+
+Minimize synchronization. Reduce shared mutable state. Prefer append-only logs and immutable events.
+
+---
+
+### Replication & Data Architecture
+
+- Primary-replica replication for transactional workloads  
+- Read-heavy workloads optimized via replica fan-out  
+- Logical data separation by bounded contexts  
+- Hybrid storage: relational cores + vector memory layers  
+- Write-through and write-back caching strategies  
+
+Data durability and recovery paths are designed before features.
+
+---
+
+### Caching & Latency Engineering
+
+Latency is a systems problem, not a frontend problem.
+
+- Multi-layer caching (edge → service → database)  
+- Cache invalidation through event propagation  
+- TTL tuning aligned to business SLAs  
+- Cold-start mitigation strategies  
+- Backpressure and load shedding under saturation  
+
+I design systems that maintain SLOs under peak stress.
+
+---
+
+### Failure Isolation & Resilience
+
+- Circuit breakers  
+- Bulkhead isolation  
+- Graceful degradation pathways  
+- Retry with exponential backoff + jitter  
+- Health checks, readiness probes, and rolling restarts  
+
+Blast radius is always constrained.
+
+If a component fails, the system bends — it doesn’t collapse.
+
+---
+
+## AI as a Distributed Subsystem
+
+AI components are probabilistic nodes inside deterministic infrastructure.
+
+I build:
+
+- Agent orchestration layers with tool routing  
+- Structured memory (vector + relational hybrid models)  
+- Inference observability and trace logging  
+- Validation loops and human override paths  
+- Fallback models under degradation  
+
+AI is wrapped in guardrails, telemetry, and cost-aware orchestration.
+
+---
+
+## Cloud-Native Infrastructure
+
+- Dockerized microservices  
+- Kubernetes orchestration  
+- Horizontal pod autoscaling  
+- Stateless compute + durable storage  
+- Rolling deployments and zero-downtime migrations  
+
+Infrastructure is elastic by design, not by hope.
+
+---
+
+## Performance & Concurrency Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-EE0A24?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 </p>
 
-<!-- Add more as relevant: LangGraph, CrewAI, Redis, Kafka, Prometheus, etc. -->
+---
+
+## Engineering Philosophy
+
+- Design for failure before designing for scale  
+- Prefer mechanical sympathy over abstraction layering  
+- Make tradeoffs explicit and measurable  
+- Optimize for operability and observability  
+- Build systems that become more reliable as they evolve  
 
 ---
 
-### Guiding Principles
+## Current Focus
 
-- Build high-leverage solutions — solve the problem today while enabling 10× scale tomorrow  
-- Assume failure is inevitable — engineer detection, recovery, and graceful fallback  
-- Keep humans meaningfully in control — prioritize explainability, monitoring, and override paths  
-- Favor modularity and explicitness — systems should be understandable, testable, and evolvable  
+- Agent-driven operational infrastructure  
+- High-availability transaction systems  
+- Real-time merchant platforms  
+- Distributed AI-native backends for emerging startups  
 
 ---
-
-### Activity Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dracula&hide_border=true" alt="Contribution Streak"/>
+  Based in Mombasa · Shipping globally · Engineering for resilience
 </p>
 
----
-
-Based in Nairobi. Focused on execution. Open to interesting challenges in agent systems, real-time infra, and production AI.
-
-Let's build something robust.
+<p align="center">
+  <strong>Building systems that remain predictable under scale, concurrency, and uncertainty.</strong>
+</p>
