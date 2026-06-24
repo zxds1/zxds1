@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/profile.png" alt="Brian Mwirigi" width="180" style="border-radius:50%; box-shadow: 0 8px 32px rgba(0,0,0,0.4);"/>
+  <img src="https://raw.githubusercontent.com/zxds1/zxds1/main/assets/profile.png" alt="Brian Mwirigi" width="180" style="border-radius:50%; box-shadow: 0 8px 32px rgba(0,0,0,0.4);"/>
 </p>
 
 <h1 align="center">Brian Mwirigi</h1>
@@ -16,7 +16,7 @@
   <a href="https://twitter.com/your-twitter-handle">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="mailto:your-email@domain.com">
+  <a href="mwirigib332@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
