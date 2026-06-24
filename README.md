@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zxds1/zxds1/main/assets/profile.png" alt="Brian Mwirigi" width="180" style="border-radius:50%; box-shadow: 0 8px 32px rgba(0,0,0,0.4);"/>
+  <img src="https://raw.githubusercontent.com/zxds1/zxds1/main/assets/profile.png.jpg" alt="Brian Mwirigi" width="180" style="border-radius:50%; box-shadow: 0 8px 32px rgba(0,0,0,0.4);"/>
 </p>
 
 <h1 align="center">Brian Mwirigi</h1>
